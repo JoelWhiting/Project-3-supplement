@@ -1,0 +1,18 @@
+# Ignore compiled files and build directories
+bin/
+out/
+*.class
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven and Gradle directories
+target/
+build/
+
